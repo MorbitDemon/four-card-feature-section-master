@@ -27,7 +27,7 @@ body {
   padding: 1.7rem;
 }
 
-main{
+.container{
     min-height: 100vh;
 }
 
